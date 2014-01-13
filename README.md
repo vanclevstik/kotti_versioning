@@ -1,4 +1,5 @@
-kotti_versioning
+================
+kotti_navigation
 ================
 
-Versioning support for Kotti
+This is an extension to the Kotti CMS that adds the versioning support
